@@ -1,2 +1,2 @@
 # docker-testbox
-Testbox bootstrap
+Simple image with php intl/zip for testing. 
